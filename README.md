@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Giovanni aka Xtuber
 
-<!--
-**Xtuber14/Xtuber14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm self-taught developer
+- 🔭 Check out my new repos
+- 🌱 I’m currently learning everything
+- 🥅 2023 Goals: Learn more about C++ and C#
+- ⚡ Fun fact: I love to play videogames and obviously coding
 
-Here are some ideas to get you started:
+### Languages and Tools that I use:
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,cs,visualstudio,vscode,unity,pr,ae&theme=dark)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Stats:
+![Xtuber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xtuber14&show_icons=true&theme=dark)
