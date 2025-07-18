@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love to play videogames and obviously coding
 
 ### Languages and Tools that I use:
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,cs,cppvisualstudio,vscode,unity,pr,ae&theme=dark)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,cs,cpp,visualstudio,vscode,unity,pr,ae&theme=dark)]
 
 ### My Stats:
 ![Xtuber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xtuber14&show_icons=true&theme=dark)
